@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TicTacToe</string>
+    <string name="settings">Settings</string>
+    <string name="button_start">START</string>
+    <string name="title_activity_game_">Game_Activity</string>
+    <string name="Over">GAME OVER</string>
+    <string name="X">PLAYER X WINS</string>
+    <string name="O">PLAYER O WINS</string>
+    <string name="Draw">DRAW</string>
+    <string name="Content_Replay">Replay Button</string>
+</resources>
